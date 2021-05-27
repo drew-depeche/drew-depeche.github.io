@@ -1,0 +1,13 @@
+body{
+    background: center
+    url("background.JPG");
+    background-size: cover;
+    background-repeat:repeat-y;
+}
+
+.maintitle{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 200px;
+    color:PeachPuff;
+}
