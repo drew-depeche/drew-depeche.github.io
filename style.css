@@ -7,7 +7,17 @@ body{
 
 .maintitle{
     margin-top: 0px;
+    margin-bottom: 0px;
     text-align: center;
     font-size: 200px;
     color:PeachPuff;
+    line-height: 1;
+    padding-bottom: 0;
+}
+
+.links{
+    text-align:center;
+    font-size: 20px;
+    color:PeachPuff;
+    padding-top: 0;
 }
