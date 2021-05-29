@@ -76,5 +76,32 @@ body{
     text-align:left;
     font-size:20px;
     color:peachpuff;
-
 }
+
+a:link {
+    color:  peachpuff;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color:  peachpuff;
+    text-decoration: none;
+  }
+  
+a:focus {
+    border-bottom: none;
+    background: none;
+    text-decoration: none;
+  }
+  
+a:hover {
+    border-bottom: none;
+    background: none;
+    text-decoration: none;
+  }
+  
+a:active {
+    background: none;
+    color: peachpuff;
+    text-decoration: none;
+  }
