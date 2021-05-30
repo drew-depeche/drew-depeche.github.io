@@ -20,6 +20,16 @@ body{
     padding-bottom: 0;
 }
 
+.subpagetitle{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 100px;
+    color:PeachPuff;
+    line-height: 1;
+    padding-bottom: 0;
+}
+
 .portfolio{
     text-align:center;
     font-size: 25px;
@@ -105,3 +115,4 @@ a:active {
     color: peachpuff;
     text-decoration: none;
   }
+
